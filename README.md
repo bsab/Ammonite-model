@@ -4,7 +4,7 @@ This is an Ultralytics YOLO V6.0 machine vision model for detecting fossil ammon
   
 ## 🎥 Demo Video  
 To see the model in action, check out this demo video:  
-[Ammonite Model Demo]([https://github.com/bsab/Ammonite-model/raw/refs/heads/patch-1/Smartphone_ammonite_detector_video.mov])
+[Ammonite Model Demo](https://github.com/bsab/Ammonite-model/raw/refs/heads/patch-1/Smartphone_ammonite_detector_video.mov)
 
 ## 🌟 Features  
 - 📱 Detects fossil ammonites in real-time using your smartphone camera.  
