@@ -2,6 +2,10 @@
   
 This is an Ultralytics YOLO V6.0 machine vision model for detecting fossil ammonites. It was created by labeling 300 images of ammonites, totaling over 800 annotations, using Datature's online free trial version. This dataset was used to build a machine vision YOLO model through deep (transfer) learning.  
   
+## 🎥 Demo Video  
+To see the model in action, check out this demo video:  
+[Ammonite Model Demo]([https://github.com/bsab/Ammonite-model/raw/refs/heads/patch-1/Smartphone_ammonite_detector_video.mov])
+
 ## 🌟 Features  
 - 📱 Detects fossil ammonites in real-time using your smartphone camera.  
 - 🧠 Educates children and adults about Geology and AI.  
@@ -38,6 +42,6 @@ The Vision Detector app performs real-time image processing using a CoreML model
 - **Model Selection:** Select your CoreML machine learning model from the app's open menu or control panel buttons, or drag and drop it onto the Vision Detector app icon in Finder or Dock.  
 - **Processing:** Start or stop processing by pressing the 'Play' button or hitting the space bar.  
 - **Supported Models:** Includes image classification, object detection, and style transfer. Models lacking a non-maximum suppression layer, or those that use MultiArray for input/output data, are not supported.  
-  
+    
 Enjoy exploring the fascinating world of Geoscience with the power of AI! 🦑💡  
 
